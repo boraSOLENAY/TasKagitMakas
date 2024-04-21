@@ -171,7 +171,7 @@ namespace RockPaperScissors
 
             //Player win conditions
 
-            else if (playerChoice == "rock" && CPUChoice == "scissor")
+            else if (playerChoice == "tas" && CPUChoice == "makas")
             {
                 playerScore += 1;
                 tur -= 1;
