@@ -2,6 +2,9 @@
 
 Karşınızdaki CPU ile oynayabildiğiniz basit bir taş kağıt makas oyunu <br> <br>
 
+*Oyunu Sağ taraftaki Releases kısmından .exe halinde indirip açabilirsiniz. <br> 
+Dosya hakkında bir endişeniz olursa virustotal sitesinden dosyayı scan edebilirsiniz. <br>
+
 
 *Tur sayısı 3'tür. <br>
 *Her tur için 5 saniye süre vardır. <br>
