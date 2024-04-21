@@ -3,7 +3,7 @@
 Karşınızdaki CPU ile oynayabildiğiniz basit bir taş kağıt makas oyunu <br> <br>
 
 *Oyunu Sağ taraftaki Releases kısmından .exe halinde indirip açabilirsiniz. <br> 
-Dosya hakkında bir endişeniz olursa virustotal sitesinden dosyayı scan edebilirsiniz. <br>
+Dosya hakkında bir endişeniz olursa program dosyalarını indirip Visual Studio'da solution olarak çalıştırabilirsiniz. <br>
 
 
 *Tur sayısı 3'tür. <br>
